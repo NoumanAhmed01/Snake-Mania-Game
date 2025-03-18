@@ -1,4 +1,5 @@
 # Snake-Mania-Game
+For Live Demo visit:  https://noumanahmed01.github.io/Snake-Mania-Game/
 
 🐍 Snake Mania
 A simple yet engaging Snake Game built with HTML, CSS, and JavaScript.
